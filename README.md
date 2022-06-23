@@ -25,4 +25,7 @@ Linux:
 Power BI:
 - [Power BI 连接sharepoint及网关设置.md](Power%20BI%20连接sharepoint及网关设置.md)
 - [Power Shell 连接 SQL SERVER.md](Power%20Shell%20连接%20SQL%20SERVER.md)
-- [SSDT和Power BI 内部集成git并推送到GitLab](SSDT和Power%20BI%20内部集成git并推送到GitLab.md)
+- [SSDT和Power BI 内部集成git并推送到GitLab](SSDT和Power%20BI%20内部集成git并推送到GitLab.md)、
+
+
+
